@@ -39,6 +39,7 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ---
 _**[Regression Notes](Regression Interpretation and Class Notes - (3-3--2022))**_
+Regression Interpretation and Class Notes - (3-3--2022).md
 
 Write what you want. 
 
