@@ -1,3 +1,4 @@
+[Regression Interpretation and Class Notes - (3-3--2022) (1).md](https://github.com/SNEDDONH/SNEDDONH.github.io/files/8411076/Regression.Interpretation.and.Class.Notes.-.3-3--2022.1.md)
 ## About Me
 
 My name is Harrison Sneddon. I am a student at Lehigh University.
@@ -38,7 +39,7 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-_**[Regression Notes](Regression Interpretation and Class Notes - (3-3--2022))**_
+_**[Regression Note](https://github.com/SNEDDONH/SNEDDONH.github.io/files/8411076/Regression.Interpretation.and.Class.Notes.-.3-3--2022.1.md)))**_
 Regression Interpretation and Class Notes - (3-3--2022).md
 
 Write what you want. 
