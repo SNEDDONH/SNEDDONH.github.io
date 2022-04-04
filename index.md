@@ -38,6 +38,8 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+_**[Regression Notes] 
+
 
 ## Career Objectives
 
