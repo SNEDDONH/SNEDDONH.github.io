@@ -47,8 +47,8 @@ instructions.
 
 ## Consilium Partners
 
-### [Gerard Daniel Worldwide](https://www.cpboston.com/tombstones/gerard-daniel-worldwide/)
-<br>
-### [Dynawave Inc. & Dynawave Cable Inc.](https://www.cpboston.com/tombstones/dynawave-inc-and-dynawave-cable-inc-dynawave/)
+### [Gerard Daniel Worldwide]("https://www.cpboston.com/tombstones/gerard-daniel-worldwide/)
+
+### [Dynawave Inc. and Dynawave Cable Inc.](https://www.cpboston.com/tombstones/dynawave-inc-and-dynawave-cable-inc-dynawave/)
 
 
