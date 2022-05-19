@@ -4,9 +4,9 @@ My name is Harrison Sneddon. I am a senior at Lehigh University studting finance
 
 ---
 
-### Transaction Experience
+###Experience
 
-**[Recently closed M&A, Debt, and Equity mandates](Transaction)**
+_**[Recently closed M&A, Debt, and Equity mandates](Transaction)**_
 ---
 
 _**[Regression Practice](Regression_practice)**_
