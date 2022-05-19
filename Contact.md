@@ -1,13 +1,13 @@
 ## Contact Information
-  #### Email
+  ### Email
   <br>
-  University: hts221@lehigh.edu
+  #### University: hts221@lehigh.edu
   <br>
-  Personal: ht.sneddon11@gmail.com
+  #### Personal: ht.sneddon11@gmail.com
   <br>
   
   ---
 
-  #### Mobile
+  ### Mobile
   <br>
-  Personal: (617) 513-0834
+  #### Personal: (617) 513-0834
