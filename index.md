@@ -18,7 +18,7 @@ My name is Harrison Sneddon. I am a senior at Lehigh University studting finance
 
 ---
 
-### Hobbies
+## Hobbies
 
 During downtime, i enjoy being an avid fisher, golfer, woodworker, and perfumer.
 <br> 
