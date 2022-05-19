@@ -1,5 +1,5 @@
 ## Contact Information
-  ### Email
+  #### Email
   <br>
   University: hts221@lehigh.edu
   <br>
@@ -8,6 +8,6 @@
   
   ---
 
-  ### Mobile
+  #### Mobile
   <br>
   Personal: (617) 513-0834
