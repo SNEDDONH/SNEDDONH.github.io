@@ -1,4 +1,4 @@
-## [Raymond James]("https://www.raymondjames.com/corporations-and-institutions/investment-banking/transaction-history?industry=0&sector=0&transaction=0&r=10")
+## [Raymond James](https://www.raymondjames.com/corporations-and-institutions/investment-banking/transaction-history?industry=0&sector=0&transaction=0&r=10)
 
 ### Woodfiber Group
 <img src="images/2110_woodfibergroup.jpg"/>
@@ -47,8 +47,7 @@ instructions.
 
 ## Consilium Partners    
 
-### [Gerard Daniel Worldwide]("https://www.cpboston.com/tombstones/gerard-daniel-worldwide/")
-
-### [Dynawave Inc. and Dynawave Cable Inc.]("https://www.cpboston.com/tombstones/dynawave-inc-and-dynawave-cable-inc-dynawave/")
+### [Gerard Daniel Worldwide](https://www.cpboston.com/tombstones/gerard-daniel-worldwide/)]
+### [Dynawave Inc. and Dynawave Cable Inc.](https://www.cpboston.com/tombstones/dynawave-inc-and-dynawave-cable-inc-dynawave/)
 
 
