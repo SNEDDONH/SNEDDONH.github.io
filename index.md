@@ -9,15 +9,11 @@ My name is Harrison Sneddon. I am a senior at Lehigh University studting finance
 ##### **[Recently closed M&A, Debt, and Equity mandates](Transaction)**
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+##### **[Recent Valuations](Regression_practice)**
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+##### **[Team Datascience Project](https://donbowen.github.io/teamproject/)**
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
