@@ -1,39 +1,25 @@
-## About Me
+### About Me
 
-My name is Harrison Sneddon. I am a student at Lehigh University.
-
-<!-- Upload your own photo and change the path -->
-
+My name is Harrison Sneddon. I am a senior at Lehigh University studting finance with a minor in International Relations and Economic Development. I will be working as an investment banking analyst following graduation. 
 
 ---
 
-## Portfolio
+### Experience
 
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
+##### **[Recently closed M&A, Debt, and Equity mandates](Transaction)**
+---
 
-_**[Natural language processing 10-Ks to identify risks](10k_nlp_covid)**_
+##### **[Recent Valuations](Regression_practice)**
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+---
+
+##### **[Team Datascience Project](https://donbowen.github.io/teamproject/)**
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Recent Public Company Valuations](/pdf/sample_presentation.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 

@@ -1,20 +1,22 @@
 title: Harrison Sneddon # your name (or website title) here
 logo: "/images/HTS_LKDIN.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Edit these links below   
+  Investment Banking Analyst - Industrials and Integrated Technology
   <br>
-  in _config.yml 
+  
+  <br>
+  Lehigh University
+  <br>
+  B.S in Business and Economics - Finance Concentration
   <br><br>
   <a href="https://linkedin.com/in/harrison-sneddon/">LinkedIn</a> 
   <br>
-  <a href="https://bowen.finance/cv/" class="btn btn--info">Resume</a>  
+  <a href="HTS CV.pdf" class="btn btn--info">Resume</a>   
   <br>
-  <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
+  <a href="CONTACT.md">Contact</a> 
   <br>
-  <a href="https://www.GitHub.com/donbowen/">GitHub</a>  
+  <a href="https://www.raymondjames.com/corporations-and-institutions/investment-banking">Raymond James</a>  
   <br>
-  <a href="https://www.GitHub.com/donbowen/">Twitter</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Youtube</a> 
+
   
 theme: jekyll-theme-minimal
