@@ -6,16 +6,17 @@ My name is Harrison Sneddon. I am a senior at Lehigh University studting finance
 
 ## Experience
 
-#### **[Recently closed M&A, Debt, and Equity mandates](Transaction)**
+#### **[Recently closed M&A, Debt, and Equity mandates](/transactions.md)**
 
 ---
 
-#### **[Recent Public Company Valuations](Regression_practice)**
+#### **Recent Public Company Valuations**
+
 
 ---
 
 #### **[Team Datascience Project](https://theo-faucher.github.io/DiamondHands/)**
-
+    
 ---
 
 ## Hobbies
