@@ -20,7 +20,9 @@ My name is Harrison Sneddon. I am a senior at Lehigh University studting finance
 
 ### Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+During downtime, i enjoy being an avid fisher, golfer, woodworker, and perfumer.
+<br> 
+Yes, perfumer!
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
