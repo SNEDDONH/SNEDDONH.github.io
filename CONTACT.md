@@ -1,6 +1,3 @@
----
-layout: wide_default
----
 
 ## Contact Information
 
