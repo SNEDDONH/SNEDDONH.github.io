@@ -12,7 +12,7 @@ My name is Harrison Sneddon. I am a senior at Lehigh University studting finance
 
 ## Recent Public Company Valuations
 
-#### **[Kratos Defense Technologies](https://docs.google.com/presentation/d/e/2PACX-1vSuHNITbL9xRHwmu4Tggf-gJMFkpJ5lha9W7FJgtX1Nmvv1NJNqEfePloQRMnOn1GIc0p4Phz4v2msK/pub?start=false&loop=false&delayms=3000)**
+### **[Kratos Defense Technologies](https://docs.google.com/presentation/d/e/2PACX-1vSuHNITbL9xRHwmu4Tggf-gJMFkpJ5lha9W7FJgtX1Nmvv1NJNqEfePloQRMnOn1GIc0p4Phz4v2msK/pub?start=false&loop=false&delayms=3000)**
 #### **[Huntington Ingalls Industries](https://docs.google.com/presentation/d/e/2PACX-1vTBcuUqQrTmESF1bso4h5yH4FeHFGNdxwT-q8X9ZfTcOPXSHsEewNrX_DMQP9-YdvfJJnqzrvkrI7KA/pub?start=false&loop=false&delayms=3000)**
 
 
