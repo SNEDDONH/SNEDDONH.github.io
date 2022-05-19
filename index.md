@@ -14,7 +14,7 @@ My name is Harrison Sneddon. I am a senior at Lehigh University studting finance
 
 ---
 
-#### **[Team Datascience Project](https://github.com/SNEDDONH/SNEDDONH.github.io/blob/master/final_report_notebook.ipynb)**
+#### **[Team Datascience Project](https://theo-faucher.github.io/DiamondHands/)**
 
 ---
 
