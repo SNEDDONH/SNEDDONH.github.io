@@ -13,10 +13,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="HTS CV.pdf" class="btn btn--info">Resume</a>   
   <br>
-  <a href="CONTACT.md">Contact</a> 
+  <a ref="CONTACT.md">Contact</a> 
   <br>
   <a href="https://www.raymondjames.com/corporations-and-institutions/investment-banking">Raymond James</a>  
   <br>
 
   
 theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
