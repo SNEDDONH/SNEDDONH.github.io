@@ -10,14 +10,9 @@
 ---
 
 ## Full Submission & Analysis Notebook
-[Full Final Analysis Reports](./final_report)
+[Full Final Analysis Reports](https://github.com/LeDataSciFi/project-diamond-hands/blob/e3d2d7178063aee37ed14acf7cdfc628325d1149/Final_Components/Final_Report.ipynb)
 
 ---
 ## Presentation Materials
 [https://docs.google.com/presentation/d/1Y2lZmFnrXkxtTBoyG1Yw1ZAdLG0rSNqfwv7ZiYnS874/edit?usp=sharing]
 
----
-## Individual Submission Components
-1. [Download Cryptocurrency Data](./download_cryptocurrency_data.ipynb)
-1. [Exploratory Data Analysis](./EDA_summary)
-1. [Full Analysis Report](/Final_Component/Final_Report.ipynb)
