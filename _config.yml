@@ -3,6 +3,8 @@ logo: "/images/HTS_LKDIN.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Investment Banking Analyst - Industrials and Integrated Technology Systems
   <br>
+  ---
+  <br>
   Lehigh University
   <br>
   B.S Iin Business and Economics - Finance Concentration
@@ -11,10 +13,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="HTS CV.pdf" class="btn btn--info">Resume</a>   
   <br>
+  <a href="https://www.GitHub.com/donbowen/">Contact</a> 
+  <br>
   <a href="https://www.raymondjames.com/corporations-and-institutions/investment-banking">Raymond James</a>  
   <br>
-  <a href="https://www.GitHub.com/donbowen/">Twitter</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Youtube</a> 
+
   
 theme: jekyll-theme-minimal
