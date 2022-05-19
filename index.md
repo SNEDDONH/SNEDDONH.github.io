@@ -11,7 +11,9 @@ My name is Harrison Sneddon. I am a senior at Lehigh University studting finance
 ---
 
 #### **Recent Public Company Valuations**
-
+<br>
+##### [Kratos Defense Technologies](Documents/GitHub/SNEDDONH.github.io/Kratos Final Presentation .pdf)
+##### [Huntington Ingalls Industries](Documents/GitHub/SNEDDONH.github.io/HII Stock Pitch Final.pdf)
 
 ---
 
